@@ -1,0 +1,34 @@
+/*
+Theme Name: Joltheme
+Theme URI: https://wordpress.org/themes/joltheme/
+Author:Faria Hasin
+Author URI: www.codekarigor.com
+Description: Theme for jolojongol site and reservation
+Version: 01
+Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/*
+ * Globals
+ */
+
+body {
+  font-family: Roboto, sans-serif !important;
+  color: #555;
+  overflow-x: hidden !important;
+
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+  margin-top: 0;
+  font-family: roboto, sans-serif;
+  font-weight: normal;
+  color: #333;
+}

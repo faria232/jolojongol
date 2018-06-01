@@ -1,0 +1,10 @@
+/wp-admin/
+/wp-content/cache/
+/wp-content/themes/twentyfifteen/
+/wp-content/themes/twentyfourteen/
+/wp-content/themes/twentythirteen/
+/wp-content/upgrade/
+/wp-content/uploads/
+/wp-content/wfcache/
+/wp-content/wflogs/
+/wp-includes/

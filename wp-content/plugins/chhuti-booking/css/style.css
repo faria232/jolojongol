@@ -1,0 +1,34 @@
+body{
+    font-family: roboto,sans-serif;
+}
+
+.overlay-form{
+
+    margin: 0 auto;
+    background-color: #fff;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
+    width: 600px;
+    padding: 50px;
+
+}
+
+/*
+ * Calendar Styling
+ */
+div.calendar {display:block; padding: 20px 0;}
+.date {display:inline-block;width:80px;height:100px;vertical-align:text-top;padding:5px;font-family:sans-serif;border-right:1px solid #e6d8ba;margin-top:5px;}
+.date:first {border-left: 1px solid #e6d8ba;}
+.date p{margin:0;padding:0}
+.date a{color:rgb(86, 176, 76);}
+.date a:link, .date a:visited, .date a:hover, .date a:active {text-decoration: none;}
+.weekday {font-size:8pt;}
+.day{font-size:24pt;}
+.month-year{font-size:10pt;}
+.green{border-bottom: 10px solid green;}
+.yellow{border-bottom: 10px solid yellow;}
+.red {border-bottom: 10px solid red;}
+.gray {border-bottom: 10px solid gray;}
+
+div.filters {background-color:rgba(255,255,255,.7);}
+ul.list-horizontal li{display:inline; padding-right:20px;}
+
